@@ -1,0 +1,7 @@
+X - I
+P - H
+H - R
+G - X
+A - B
+B - T
+H - X
